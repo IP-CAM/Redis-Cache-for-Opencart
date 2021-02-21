@@ -1,4 +1,4 @@
-# opencart-redis-cache
+# Opencart-redis-cache
 
 system/library/cache/redis.php
 
